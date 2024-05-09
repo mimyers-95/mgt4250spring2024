@@ -61,4 +61,24 @@ The location of a college can have a notable impact on the earnings of an indivi
 
 While the location of a college can impact earnings after graduation, it's essential to consider other factors such as individual qualifications, experience, and career choices. Additionally, remote work opportunities and the globalization of certain industries may mitigate some of the location-based disparities in earning potential.
 
--
+- What is the median debt to income ratio after graduation?
+
+As of my last update in January 2022, I don't have access to real-time data, so I can't provide the most current median debt-to-income ratio after graduation. However, I can provide some general insights.
+
+The median debt-to-income ratio after graduation can vary based on a variety of factors, including the type of institution attended, the amount of student loan debt accumulated, the individual's chosen field of study, and their post-graduation income level.
+
+Several studies and reports have indicated that the median debt-to-income ratio for recent graduates can range anywhere from around 15% to 30% or higher, depending on these factors. However, these figures can fluctuate over time and may differ based on specific demographic or socioeconomic factors.
+
+It's important to note that the median debt-to-income ratio is just one metric and may not fully capture the financial circumstances of all graduates. Additionally, individual experiences with student loan debt and income levels can vary widely.
+
+- How much does level of degree impact earnings after graduation?
+
+The level of degree obtained can significantly impact earnings after graduation. Generally, individuals with higher levels of education tend to earn higher salaries on average. Here's how different levels of degrees can impact earnings:
+
+Associate's Degree: Individuals with an associate's degree typically earn more than those with just a high school diploma. However, earnings may be lower compared to those with higher-level degrees. Associate's degrees often lead to careers in fields such as healthcare, technology, and skilled trades.
+Bachelor's Degree: A bachelor's degree is often considered the entry-level requirement for many professional careers. On average, individuals with a bachelor's degree tend to earn significantly more over their lifetimes compared to those with lower levels of education. The specific field of study can also impact earning potential.
+Master's Degree: Holding a master's degree can lead to higher earning potential compared to a bachelor's degree alone. Many specialized and managerial positions require or prefer candidates with a master's degree. Fields such as business, healthcare, education, and engineering often reward individuals with master's degrees with higher salaries.
+Professional Degree (e.g., MD, JD, PharmD): Professional degrees are typically required for specific professions such as medicine, law, pharmacy, and others. Individuals who obtain professional degrees often command significantly higher salaries due to the specialized nature of their work and the extensive education and training required.
+Doctoral Degree (e.g., PhD): Doctoral degrees are the highest level of academic achievement and are typically required for careers in academia, research, and certain specialized fields. Individuals with doctoral degrees often earn higher salaries, particularly in fields where advanced expertise and research skills are valued.
+
+It's important to note that while higher levels of education generally correlate with higher earnings, other factors such as field of study, industry demand, geographic location, and individual experience also play significant roles in determining salary levels after graduation.
