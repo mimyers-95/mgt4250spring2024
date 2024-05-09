@@ -38,5 +38,5 @@ For the third visualization, I look at the question of degree level and how much
 
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/6859a2d8-ba24-4b02-b729-bbdf946a96d5)
 
-For the fourth visualization, I look at answering the question of how much does college major impact yearly earnings. This visual shows that medical doctors are clearly the top earning field of study at about 180000/year. At the lower end, we have Cosmetology and Culinary at around 20000. Clearly, there is a major difference in earnings, however it is important to note that the amount of time until graduation greatly differs as well. We see that the top earning fields tend to have a focus on science, mathematics, and technology.
+For the fourth visualization, I look at answering the question of how much does college major impact yearly earnings. This visual shows that medical doctors are the top earning field of study at about 180000/year. At the lower end, the visual shows Cosmetology and Culinary at around 20000/year. We see that the top earning fields with median earnings above 60000/year tend to have a focus on science, mathematics, and technology. Clearly, there are vast differneces between potential earnings when it comes to college majors.
 ## Discussion & Summary
