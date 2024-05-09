@@ -42,8 +42,8 @@ For the fourth visualization, I look at answering the question of how much does 
 ## Discussion & Summary
 ### Article link: https://cew.georgetown.edu/wp-content/uploads/cew-college_payoff_2021-fr.pdf
 To summarize, the article states that lifetime earnings tend to increase for individuals as education level increases, but it is not always the case. For example, it says 28% of associate's degree holders earn more than those holding bachelor's degrees. The article also talks about the importance of field of study and shows that earnings can vary greatly between fields. For example, bachelor's degree in architecture, engineering, and mathematics tend to have the most lifetime earnings over other fields of study at a bachelor's level. The article also mentions that lifetime earnings varies across states even when adjusting for cost of living.
-### Chat GPT Responses:
-- How much does location of college impact the earnings of an individual?
+### Chat GPT Responses to My Questions:
+#### How much does location of college impact the earnings of an individual?
 
 The location of a college can have a notable impact on the earnings of an individual after graduation. Several factors contribute to this influence:
 
@@ -61,7 +61,7 @@ The location of a college can have a notable impact on the earnings of an indivi
 
 While the location of a college can impact earnings after graduation, it's essential to consider other factors such as individual qualifications, experience, and career choices. Additionally, remote work opportunities and the globalization of certain industries may mitigate some of the location-based disparities in earning potential.
 
-- What is the median debt to income ratio after graduation?
+#### What is the median debt to income ratio after graduation?
 
 As of my last update in January 2022, I don't have access to real-time data, so I can't provide the most current median debt-to-income ratio after graduation. However, I can provide some general insights.
 
@@ -71,7 +71,7 @@ Several studies and reports have indicated that the median debt-to-income ratio 
 
 It's important to note that the median debt-to-income ratio is just one metric and may not fully capture the financial circumstances of all graduates. Additionally, individual experiences with student loan debt and income levels can vary widely.
 
-- How much does level of degree impact earnings after graduation?
+#### How much does level of degree impact earnings after graduation?
 
 The level of degree obtained can significantly impact earnings after graduation. Generally, individuals with higher levels of education tend to earn higher salaries on average. Here's how different levels of degrees can impact earnings:
 
@@ -87,7 +87,7 @@ Doctoral Degree (e.g., PhD): Doctoral degrees are the highest level of academic 
 
 It's important to note that while higher levels of education generally correlate with higher earnings, other factors such as field of study, industry demand, geographic location, and individual experience also play significant roles in determining salary levels after graduation.
 
-- How much does college major impact the earnings of an individual?
+#### How much does college major impact the earnings of an individual?
 
 College major can have a significant impact on the earnings of an individual. Different majors lead to different career paths and opportunities, which can influence earning potential. Here are some key factors to consider:
 
@@ -102,3 +102,4 @@ Geographic Location: Earning potential can also vary based on the geographic loc
 Experience and Skills: Beyond the major itself, factors such as internships, co-op programs, certifications, and relevant work experience can significantly impact earning potential. Employers often value practical skills and real-world experience, which can translate into higher salaries regardless of the major.
 
 It's important to research and consider the earning potential and career prospects associated with different majors before making a decision. While passion and interest are essential factors in choosing a major, understanding the potential financial implications can help individuals make informed decisions about their educational and career paths.
+
