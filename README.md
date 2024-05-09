@@ -20,9 +20,9 @@ pay it off before it is considered a net positive financially.
 ## Data Description
 The data used in these visualizations come from the College Scorecard website which is maintained by the US Department of Education. I used the most recent data set available in to create visualizations. In order to access the data, I have uploaded two zip files to this repository, one named Most Recent Cohorts Field of Study and the other named Most Recent Cohorts Institution. Each one of these zip files contain an Excel sheet, so there are two Excel sheets in total. Once you have extracted these two Excel files then you will have downloaded the data needed for the visualizations.
 #### The first visual uses data from Most Recent Cohorts Institution. It uses the Stabrr data column which contains a list of all US states and territories in string format. Using the Stabbr column, I created a new column Region which groups individual states and territories by region. It also uses the Mdn Earn Wne 4 yr data column which contains individual incomes earned 4 years after completing college in integer format.
-#### The second visual uses data from Most Recent Cohorts Field of Study. It uses the Creddesc data column which contains degree levels by description in string format. It also uses the Earn Mdn 4 Yr data column which contains individual incomes earned 4 years after degree completion in integer format.
+#### The second visual uses data from Most Recent Cohorts Institution. It uses the Grad Debt Mdn data column which contains the total amount of debt for an individual after completing college in float format. It also uses the Mdn Earn Wne 4 yr data column.
 #### The third visual uses data from Most Recent Cohorts Field of Study. It uses the Cipcode data column which contains numerical ids for college majors in string format. For this visual I grouped the Cipcode data into groups according to similar majors and created a new column called Field of Study in string format. It also uses the Earn Mdn 4 Yr data column.
-#### The fourth visual uses data from Most Recent Cohorts Institution. It uses the Grad Debt Mdn data column which contains the total amount of debt for an individual after completing college in float format. It also uses the Mdn Earn Wne 4 yr data column.
+#### The fourth visual uses data from Most Recent Cohorts Field of Study. It uses the Creddesc data column which contains degree levels by description in string format. It also uses the Earn Mdn 4 Yr data column which contains individual incomes earned 4 years after degree completion in integer format.
 ## Interpreting Visualization
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/96512f57-ac83-4f5a-8aca-6611cad59c9c)
 
@@ -36,4 +36,7 @@ For the second visualization, I wanted to look at the question of debt to income
 
 For the third visualization, I look at the question of degree level and how much it impacts yearly earnings. The visual clearly shows that higher degree levels correlate to higher income with about a 55000/year difference between doctoral degrees and high school diplomas. Even between a high school diploma and bachelor's degree the difference is quite significant at about a 20000 dollar increase.
 
+![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/6859a2d8-ba24-4b02-b729-bbdf946a96d5)
+
+For the fourth visualization, 
 ## Discussion & Summary
