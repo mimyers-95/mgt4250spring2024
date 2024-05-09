@@ -76,9 +76,13 @@ It's important to note that the median debt-to-income ratio is just one metric a
 The level of degree obtained can significantly impact earnings after graduation. Generally, individuals with higher levels of education tend to earn higher salaries on average. Here's how different levels of degrees can impact earnings:
 
 Associate's Degree: Individuals with an associate's degree typically earn more than those with just a high school diploma. However, earnings may be lower compared to those with higher-level degrees. Associate's degrees often lead to careers in fields such as healthcare, technology, and skilled trades.
+
 Bachelor's Degree: A bachelor's degree is often considered the entry-level requirement for many professional careers. On average, individuals with a bachelor's degree tend to earn significantly more over their lifetimes compared to those with lower levels of education. The specific field of study can also impact earning potential.
+
 Master's Degree: Holding a master's degree can lead to higher earning potential compared to a bachelor's degree alone. Many specialized and managerial positions require or prefer candidates with a master's degree. Fields such as business, healthcare, education, and engineering often reward individuals with master's degrees with higher salaries.
+
 Professional Degree (e.g., MD, JD, PharmD): Professional degrees are typically required for specific professions such as medicine, law, pharmacy, and others. Individuals who obtain professional degrees often command significantly higher salaries due to the specialized nature of their work and the extensive education and training required.
+
 Doctoral Degree (e.g., PhD): Doctoral degrees are the highest level of academic achievement and are typically required for careers in academia, research, and certain specialized fields. Individuals with doctoral degrees often earn higher salaries, particularly in fields where advanced expertise and research skills are valued.
 
 It's important to note that while higher levels of education generally correlate with higher earnings, other factors such as field of study, industry demand, geographic location, and individual experience also play significant roles in determining salary levels after graduation.
