@@ -19,6 +19,8 @@ large disparity of income between college majors.
 #### https://www.cnbc.com/2021/11/02/the-gap-in-college-costs-and-earnings-for-young-workers-since-1980.html
 #### https://www.chicagofed.org/publications/chicago-fed-insights/2024/is-college-a-worthwhile-investment
 ## Data Description
+The data used in these visualizations come from the College Scorecard website which is maintained by the US Department of Education. In order to access the data, I have uploaded two zip files to this repository, one named Most Recent Cohorts Field of Study and the other named Most Recent Cohorts Institution. Each one of these zip files contain a Excel sheets from which all of the data in the visualizations come from.
+
 ## Interpreting Visualizations
 ## Discussion & Summary
 [Elon University](https://elon.edu)
