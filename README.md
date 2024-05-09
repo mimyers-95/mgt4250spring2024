@@ -20,7 +20,7 @@ large disparity of income between college majors.
 #### https://www.chicagofed.org/publications/chicago-fed-insights/2024/is-college-a-worthwhile-investment
 ## Data Description
 The data used in these visualizations come from the College Scorecard website which is maintained by the US Department of Education. In order to access the data, I have uploaded two zip files to this repository, one named Most Recent Cohorts Field of Study and the other named Most Recent Cohorts Institution. Each one of these zip files contain an Excel sheet, so there are two Excel sheets in total. Once you have extracted these two Excel files then you will have downloaded the data needed for the visualizations. 
-
+The first visual uses the Stabrr data column which contains a list of all US states in territories in string format. It also uses the Mdn Earn Wne 4 yr data column which contains the median income earned 4 years after completing college in integer format.
 ## Interpreting Visualizations
 ## Discussion & Summary
 [Elon University](https://elon.edu)
