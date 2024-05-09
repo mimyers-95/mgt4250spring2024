@@ -15,9 +15,9 @@ pay it off before it is considered a net positive financially.
  2.  The price of this investment can vary greatly depending on college tuition in different regions of the country. Not to mention, there is a
 large disparity of income between college majors.
 ### References:
-https://www.forbes.com/advisor/education/student-resources/is-a-college-degree-worth-it/
-https://www.cnbc.com/2021/11/02/the-gap-in-college-costs-and-earnings-for-young-workers-since-1980.html
-https://www.chicagofed.org/publications/chicago-fed-insights/2024/is-college-a-worthwhile-investment
+#### https://www.forbes.com/advisor/education/student-resources/is-a-college-degree-worth-it/
+#### https://www.cnbc.com/2021/11/02/the-gap-in-college-costs-and-earnings-for-young-workers-since-1980.html
+#### https://www.chicagofed.org/publications/chicago-fed-insights/2024/is-college-a-worthwhile-investment
 ## Data Description
 ## Interpreting Visualizations
 ## Discussion & Summary
