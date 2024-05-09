@@ -2,7 +2,7 @@
 Author: Michael Myers, mmyers23@elon.edu
 ## Project link:
 ## Project Description
-This purpose of this repostitory is to showcase my MGT4250 Data Visualization course project at Elon University. In this project, I wanted to look at the monetary value of attending college in terms of annual salary after graduation. In other words, I'm looking at the financial value of college. Of course, there are several considerations for an individual to take when choosing a college to attend, but this project will focus on financial aspects. The questions that I would like to answer are the following:  
+This purpose of this repostitory is to showcase my MGT4250 Data Visualization course project at Elon University. In this project, I wanted to look at the monetary value of attending college in terms of annual income after graduation. In other words, I'm looking at the financial value of college. Of course, there are several considerations for an individual to take when choosing a college to attend, but this project will focus on financial aspects. The questions that I would like to answer are the following:  
 ### Questions of interest
 - How much does college major impact the earnings of an individual?
 - How much does location of college impact the earnings of an individual?
