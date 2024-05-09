@@ -24,5 +24,7 @@ The data used in these visualizations come from the College Scorecard website wh
 #### The third visual uses data from Most Recent Cohorts Field of Study. It uses the Cipcode data column which contains numerical ids for college majors in string format. For this visual I grouped the Cipcode data into groups according to similar majors and created a new column called Field of Study in string format. It also uses the Earn Mdn 4 Yr data column.
 #### The fourth visual uses data from Most Recent Cohorts Institution. It uses the Grad Debt Mdn data column which contains the total amount of debt for an individual after completing college in float format. It also uses the Mdn Earn Wne 4 yr data column.
 ## Interpreting Visualizations
+![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/7405e176-2fd4-487c-af09-b80b323002b8)
+
 ## Discussion & Summary
 [Elon University](https://elon.edu)
