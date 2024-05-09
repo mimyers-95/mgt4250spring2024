@@ -27,9 +27,11 @@ The data used in these visualizations come from the College Scorecard website wh
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/96512f57-ac83-4f5a-8aca-6611cad59c9c)
 
 For the first visualization, I wanted to look at the question of how location of college affects individual income after graduation. I looked at the median yearly income after four years of individuals who graduated and grouped these incomes by region. The visual tells us that graduates in New England tend to earn the highest median income at around 46500/year, while graudates in US territories like Puerto Rico and Virgin Islands tend to have the lowest median incomes at around 21500/year, which shows about a 25000 dollar difference between regions. We also see that the Mountain, Southeast, and Southwest regions all have simliar incomes ranging from 35500-37000/year. This indicates that where you graduate from college has a great impact on your future earnings.
+  
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/04e5d55c-3824-4ba3-b34e-590b8a4be112)
 
 For the second visualization, I wanted to look at the question of debt to income after graduation. We can see that even though graduates from US territories have the lowest median yearly income, they also tend to have the lowest debt after graduation being almost 10000 dollars lower than graduates in New England who tend to have the highest debt. It's also interesting to note that regions with higher median incomes tend to have higher debts as well. I also added a linear trend line and it has a p-value of <0.05. This shows us that the correlation between debt after graduation and yearly income after graduation is significant.
+
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/ad84854d-0563-4bcb-b79f-fa87b9b4bc53)
 
 For the third visualization, I look at the question of degree level and how much it impacts yearly earnings. The visual clearly shows that higher degree levels correlate to higher income with about a 55000/year difference between doctoral degrees and high school diplomas. Even between a high school diploma and bachelor's degree the difference is quite significant at about a 20000 dollar increase.
