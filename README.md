@@ -5,9 +5,9 @@ Author: Michael Myers, mmyers23@elon.edu
 This purpose of this repostitory is to showcase my MGT4250 Data Visualization course project at Elon University. In this project, I wanted to look at the monetary value of attending college in terms of annual income after graduation. In other words, I'm looking at the financial value of college. Of course, there are several considerations for an individual to take when choosing a college to attend, but this project will focus on financial aspects. The questions that I would like to answer are the following:  
 ### Questions of interest
 - How much does location of college impact the earnings of an individual?
+- What is the debt to income ratio after graduation?
 - How much does level of degree impact earnings after graduation?
 - How much does college major impact the earnings of an individual?
-- What is the debt to income ratio after graduation?
 ### Importance
 - This is *especially* **important** because
  1.  The upfront cost of college is often a huge financial investment and can take up to many years for a student to
@@ -38,5 +38,5 @@ For the third visualization, I look at the question of degree level and how much
 
 ![image](https://github.com/mimyers-95/mgt4250spring2024/assets/79224403/6859a2d8-ba24-4b02-b729-bbdf946a96d5)
 
-For the fourth visualization, 
+For the fourth visualization, I look at answering the question of how much does college major impact yearly earnings. This visual shows that medical doctors are clearly the top earning field of study at about 180000/year. At the lower end, we have Cosmetology and Culinary at around 20000. Clearly, there is a major difference in earnings, however it is important to note that the amount of time until graduation greatly differs as well. We see that the top earning fields tend to have a focus on science, mathematics, and technology.
 ## Discussion & Summary
