@@ -86,3 +86,19 @@ Professional Degree (e.g., MD, JD, PharmD): Professional degrees are typically r
 Doctoral Degree (e.g., PhD): Doctoral degrees are the highest level of academic achievement and are typically required for careers in academia, research, and certain specialized fields. Individuals with doctoral degrees often earn higher salaries, particularly in fields where advanced expertise and research skills are valued.
 
 It's important to note that while higher levels of education generally correlate with higher earnings, other factors such as field of study, industry demand, geographic location, and individual experience also play significant roles in determining salary levels after graduation.
+
+- How much does college major impact the earnings of an individual?
+
+College major can have a significant impact on the earnings of an individual. Different majors lead to different career paths and opportunities, which can influence earning potential. Here are some key factors to consider:
+
+Salary Disparities: Certain majors, such as those in STEM fields (Science, Technology, Engineering, and Mathematics), business, and healthcare, often lead to higher-paying careers compared to majors in liberal arts or humanities. For example, majors like computer science, engineering, finance, and nursing tend to have higher average salaries due to high demand and specialized skills.
+
+Industry Demand: Majors that align with high-demand industries or emerging sectors typically offer better job prospects and higher salaries. For instance, majors related to information technology, data science, renewable energy, and healthcare can lead to lucrative career opportunities due to increasing demand for professionals in these fields.
+
+Education Level: Some majors require advanced degrees for career advancement or higher earning potential. For example, while a bachelor's degree in engineering can lead to well-paying jobs, obtaining a master's or doctoral degree in engineering can further increase earning potential, especially in research or managerial roles.
+
+Geographic Location: Earning potential can also vary based on the geographic location and cost of living. Certain regions or cities may offer higher salaries to professionals in specific industries or fields, while others may have lower wages but a lower cost of living.
+
+Experience and Skills: Beyond the major itself, factors such as internships, co-op programs, certifications, and relevant work experience can significantly impact earning potential. Employers often value practical skills and real-world experience, which can translate into higher salaries regardless of the major.
+
+It's important to research and consider the earning potential and career prospects associated with different majors before making a decision. While passion and interest are essential factors in choosing a major, understanding the potential financial implications can help individuals make informed decisions about their educational and career paths.
