@@ -40,3 +40,4 @@ For the third visualization, I look at the question of degree level and how much
 
 For the fourth visualization, I look at answering the question of how much does college major impact yearly earnings. This visual shows that medical doctors are the top earning field of study at about 180000/year. At the lower end, the visual shows Cosmetology and Culinary at around 20000/year. We see that the top earning fields with median earnings above 60000/year tend to have a focus on science, mathematics, and technology. Clearly, there are vast differences between potential earnings when it comes to college majors.
 ## Discussion & Summary
+### Article link: https://cew.georgetown.edu/wp-content/uploads/cew-college_payoff_2021-fr.pdf
