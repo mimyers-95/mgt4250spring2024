@@ -42,3 +42,20 @@ For the fourth visualization, I look at answering the question of how much does 
 ## Discussion & Summary
 ### Article link: https://cew.georgetown.edu/wp-content/uploads/cew-college_payoff_2021-fr.pdf
 To summarize, the article states that lifetime earnings tend to increase for individuals as education level increases, but it is not always the case. For example, it says 28% of associate's degree holders earn more than those holding bachelor's degrees. The article also talks about the importance of field of study and shows that earnings can vary greatly between fields. For example, bachelor's degree in architecture, engineering, and mathematics tend to have the most lifetime earnings over other fields of study at a bachelor's level. The article also mentions that lifetime earnings varies across states even when adjusting for cost of living.
+### Chat GPT Responses:
+How much does location of college impact the earnings of an individual?
+The location of a college can have a notable impact on the earnings of an individual after graduation. Several factors contribute to this influence:
+
+1. **Cost of Living**: Colleges situated in regions with higher costs of living may result in higher salary expectations to maintain a comparable standard of living. Conversely, colleges in areas with lower costs of living may correlate with lower salary expectations.
+
+2. **Job Market**: The local job market and industry presence play a significant role. Graduates from colleges located in regions with robust job markets and strong demand for their skills may have better access to employment opportunities and potentially higher salaries.
+
+3. **Networking Opportunities**: Larger cities or regions often offer more extensive networking opportunities with professionals and alumni, potentially leading to better job prospects and higher salaries after graduation.
+
+4. **Industry Concentrations**: Certain locations are known for concentrations in specific industries or sectors. Attending college in proximity to these industry hubs may provide graduates with better access to internships, job opportunities, and higher salaries within those fields.
+
+5. **Local Economy**: The overall economic health and growth rate of the region can influence job availability and salary levels. Strong, growing economies generally offer better job prospects and higher earning potential for graduates.
+
+6. **Regional Wage Disparities**: Wages can vary significantly between different regions and cities due to factors such as local economic conditions, cost of living, and industry specialization. Graduates may find that their earning potential varies based on where they choose to work after graduation.
+
+While the location of a college can impact earnings after graduation, it's essential to consider other factors such as individual qualifications, experience, and career choices. Additionally, remote work opportunities and the globalization of certain industries may mitigate some of the location-based disparities in earning potential.
